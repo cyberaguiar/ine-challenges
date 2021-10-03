@@ -65,7 +65,7 @@ Error: [Microsoft][SQL Server Native Client 11.0][SQL Server]The ORDER BY positi
 
 So, we have a query with 6 columns.
 
-Now try yo pass a union query with numbers.
+Now try to pass a union query with numbers.
 
 
 ```
