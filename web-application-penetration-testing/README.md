@@ -23,6 +23,8 @@
 
 [Challenge 3](sql-injection/challenge-3.md)
 
+[Challenge 4](sql-injection/challenge-4.md)
+
 ## Authentication and Authorization
 
 ## Session Security
