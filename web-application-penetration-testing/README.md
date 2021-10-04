@@ -48,3 +48,7 @@
 [Challenge 1](session-security/challenge-1.md)
 
 [Challenge 2](session-security/challenge-2.md)
+
+## HTML 5
+
+[Challenge 1](html-5/challenge-1.md)
