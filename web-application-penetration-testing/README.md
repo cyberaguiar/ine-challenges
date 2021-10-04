@@ -27,4 +27,20 @@
 
 ## Authentication and Authorization
 
+[Challenge 2](authentication-and-authorization/challenge-2.md)
+
+[Challenge 3](authentication-and-authorization/challenge-3.md)
+
+[Challenge 4](authentication-and-authorization/challenge-4.md)
+
+[Challenge 5](authentication-and-authorization/challenge-5.md)
+
+[Password Reset 1](authentication-and-authorization/password-reset-1.md)
+
+[Password Reset 2](authentication-and-authorization/password-reset-2.md)
+
+[Password Reset 3](authentication-and-authorization/password-reset-3.md)
+
+[Password Reset 4](authentication-and-authorization/password-reset-4.md)
+
 ## Session Security
