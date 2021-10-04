@@ -44,3 +44,7 @@
 [Password Reset 4](authentication-and-authorization/password-reset-4.md)
 
 ## Session Security
+
+[Challenge 1](session-security/challenge-1.md)
+
+[Challenge 2](session-security/challenge-2.md)
