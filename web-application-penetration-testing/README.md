@@ -51,4 +51,4 @@
 
 ## HTML 5
 
-[Challenge 1](html-5/challenge-1.md)
+[Challenge 1](html5/challenge-1.md)
