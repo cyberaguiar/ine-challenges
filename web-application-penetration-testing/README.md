@@ -58,3 +58,9 @@
 [Challenge 1](file-and-resources-attacks/challenge-1.md)
 
 [Challenge 2](file-and-resources-attacks/challenge-2.md)
+
+## XPath Injection
+
+[Challenge 1](xpath/challenge-1.md)
+
+[Challenge 2](xpath/challenge-2.md)
