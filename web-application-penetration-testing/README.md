@@ -52,3 +52,9 @@
 ## HTML 5
 
 [Challenge 1](html5/challenge-1.md)
+
+## File and Resource Attacks
+
+[Challenge 1](file-and-resources-attacks/challenge-1.md)
+
+[Challenge 2](file-and-resources-attacks/challenge-2.md)

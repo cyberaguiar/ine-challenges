@@ -200,7 +200,7 @@ Source code
 </script>
 ```
 
-This file send a post message to their parent. It is possible that some other page has a iFrame to load this one.
+This file sends a post message to their parent. It is possible that some other page has a iFrame to load this one.
 
 Now open the page hb_monitoring.php.
 
